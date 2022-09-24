@@ -1,0 +1,17 @@
+body,html {
+    background:#000814;
+    height:100%;
+  }
+  
+  div, ul, span{
+      display: block; position: absolute;
+      margin: auto; padding: 0;
+      top: 0; bottom: 0; right: 0; left: 0;
+  }
+  
+  .yellow { background-color: #FFD60A;}
+  .black { background-color: #000000;}
+  .wrapper {
+    height: 450px;
+    width: 300px;
+  }
